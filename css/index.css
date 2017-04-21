@@ -1,0 +1,41 @@
+html {
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    margin: 0;
+    height: 100%;
+    width: 100%;
+    font-family: "Futura";
+    background-color: black;
+}
+
+h1 {
+    margin: 0;
+}
+
+.header {
+    width: 100%;
+    height: 20%;
+    font-size: 2vw;
+    color: #000;
+    text-align: center;
+}
+
+#title {
+    margin: 8px;
+    color: rgb(250, 250, 0);
+}
+
+.body {
+    width: 100%;
+    height: 80%;
+    margin: 0;
+}
+
+#construction {
+    height: 75%;
+    display: block;
+    margin: auto;
+}
